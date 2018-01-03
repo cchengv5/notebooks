@@ -32,7 +32,7 @@ np.dot\(a, c\) 得到的结果是a和c进行矩阵相乘，为3x3的矩阵
 
 
 ```
-graph TD
+graph TB
 A --> B
 ```
 
