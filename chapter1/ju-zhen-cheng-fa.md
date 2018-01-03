@@ -30,9 +30,7 @@ a\*c 得出的结果是a和c中每个元素依次相乘，为3x3的矩阵
 
 np.dot\(a, c\) 得到的结果是a和c进行矩阵相乘，为3x3的矩阵
 
-
-
-\`\`\` mermaid!
+\`\`\` mermaid
 
 graph TD
 
