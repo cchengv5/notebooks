@@ -1,8 +1,8 @@
-\`\`\` 
+\`\`\` mermaid!
 
-graph TB
+graph TD
 
-A--&gt;B
+A --&gt; B
 
 \`\`\`
 
