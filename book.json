@@ -1,10 +1,28 @@
 {
-    "plugins": ["disqus",
+    "plugins": [
     "github",
     "editlink",
     "prism",
     "-highlight",
     "baidu",
     "splitter",
-    "sitemap"]
+    "sitemap",
+    "mermaid",
+    "book-summary-scroll-position-saver"],
+    
+    "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/cchengv5/notebooks"
+    },
+    "editlink": {
+      "base": "https://github.com/cchengv5/notebooks",
+      "label": "编辑本页"
+    },
+    "baidu": {
+        "token": "a9787f0ab45d5e237bab522431d0a7ec"
+    },
+    "sitemap": {
+        "hostname": "119.29.215.42:4000"
+    }
+  }
 }
