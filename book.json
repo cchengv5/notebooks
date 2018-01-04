@@ -1,3 +1,10 @@
 {
-    "plugins": ["mermaid", "mermaid!"]
+    "plugins": ["disqus",
+    "github",
+    "editlink",
+    "prism",
+    "-highlight",
+    "baidu",
+    "splitter",
+    "sitemap"]
 }
